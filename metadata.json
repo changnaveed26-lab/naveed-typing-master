@@ -1,0 +1,6 @@
+{
+  "name": "Naveed Typing Master - SMBT SKILL COMPUTER CENTER GOLARCHI",
+  "description": "Professional touch typing tutor with interactive virtual keyboard, 10-finger guidance, 12-level curriculum, and speed testing at SMBT SKILL COMPUTER CENTER GOLARCHI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
